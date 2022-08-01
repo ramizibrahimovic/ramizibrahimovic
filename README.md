@@ -2,7 +2,7 @@ Looking for 🇨🇭 Swiss-quality 🇨🇭 eCommerce development to help you cr
 
 I have successfully built 16+ web and eCommerce projects as an independent developer by using:
 
-✅ Shopify & Shopify Plus
+✅ Shopify & Shopify Plus <br>
 ✅ HTML & CSS
 ✅ JavaScript & Liquid
 ✅ Python & Bootstrap
