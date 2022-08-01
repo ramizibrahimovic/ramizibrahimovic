@@ -1,16 +1,19 @@
-### Hi there 👋
+Looking for 🇨🇭 Swiss-quality 🇨🇭 eCommerce development to help you create a mind-blowing store and outshine your competition on Shopify?
 
-<!--
-**ramizibrahimovic/ramizibrahimovic** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I have successfully built 16+ web and eCommerce projects as an independent developer by using:
 
-Here are some ideas to get you started:
+✅ Shopify & Shopify Plus
+✅ HTML & CSS
+✅ JavaScript & Liquid
+✅ Python & Bootstrap
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Let's start today! I can help you with:
+
+✅ Shopify store setup & design
+✅ Page creation & Theme customization
+✅ Speed & conversion optimization
+✅ Personal training & support
+
+I know the ins and outs of Shopify and work until you are fully satisfied with the result.
+
+Daily updates and no questions asked 100% money-back guarantee included!
