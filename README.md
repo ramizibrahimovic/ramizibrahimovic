@@ -1,6 +1,6 @@
 Looking for 🇨🇭 Swiss-quality 🇨🇭 eCommerce development to help you create a mind-blowing store and outshine your competition on Shopify?
 
-I have successfully built 16+ web and eCommerce projects as an independent developer by using:
+I have successfully built 23+ web and eCommerce projects as an independent developer by using:
 
 ✅ Shopify & Shopify Plus <br>
 ✅ HTML & CSS<br>
